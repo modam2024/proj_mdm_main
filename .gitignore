@@ -1,0 +1,25 @@
+# Allow .gitignore file itself
+!.gitignore
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# Virtual environment
+.venw/
+
+
+chromedriver-win64/
+
+git_add_batch.sh
+overwrite.sh
+qqqqq
+
+git
+
+# Ignore specific navigator templates
+app_news_study/templates/navigator_word_*.html
